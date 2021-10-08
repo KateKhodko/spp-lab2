@@ -1,0 +1,16 @@
+C:\developing\projects\С#\spp-lab2\spp-lab2\bin\Debug\net5.0\spp-lab2.exe
+C:\developing\projects\С#\spp-lab2\spp-lab2\bin\Debug\net5.0\spp-lab2.deps.json
+C:\developing\projects\С#\spp-lab2\spp-lab2\bin\Debug\net5.0\spp-lab2.runtimeconfig.json
+C:\developing\projects\С#\spp-lab2\spp-lab2\bin\Debug\net5.0\spp-lab2.runtimeconfig.dev.json
+C:\developing\projects\С#\spp-lab2\spp-lab2\bin\Debug\net5.0\spp-lab2.dll
+C:\developing\projects\С#\spp-lab2\spp-lab2\bin\Debug\net5.0\ref\spp-lab2.dll
+C:\developing\projects\С#\spp-lab2\spp-lab2\bin\Debug\net5.0\spp-lab2.pdb
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.csproj.AssemblyReference.cache
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.AssemblyInfoInputs.cache
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.AssemblyInfo.cs
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.csproj.CoreCompileInputs.cache
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.dll
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\ref\spp-lab2.dll
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.pdb
+C:\developing\projects\С#\spp-lab2\spp-lab2\obj\Debug\net5.0\spp-lab2.genruntimeconfig.cache
